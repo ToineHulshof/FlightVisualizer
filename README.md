@@ -1,3 +1,3 @@
 # FlightVisualizer
 
-[FlightVisualizer](toinehulshof.com)
+[FlightVisualizer](http://toinehulshof.com)
